@@ -18,7 +18,9 @@ pull request with a link to it under the solutions section of the
 problem that you are trying to solve. Discuss possible solutions in the
 issues.
 
-### 1) Swipable tabbed navigation with many (20+) content-rich views
+## Problem list
+
+### 1) Swipable navigation with many (20+) content-rich views
 
 #### In the wild
 
