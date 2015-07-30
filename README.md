@@ -18,20 +18,18 @@ pull request with a link to it under the solutions section of the
 problem that you are trying to solve. Discuss possible solutions in the
 issues.
 
-## Problem list
+## Swipable navigation with many (20+) content-rich views
 
-### 1) Swipable navigation with many (20+) content-rich views
-
-#### In the wild
+### In the wild
 
 ![](http://url.brentvatne.ca/18j8x.gif)
 
-#### Problems
+### Problems
 
 - UITableView reduces view thrashing (destroying/re-creating) by re-use,
 this isn't implemented in React Native.
 - Eventually touch response becomes slow.
 
-#### Solutions
+### Solutions
 
 No good ones yet.
