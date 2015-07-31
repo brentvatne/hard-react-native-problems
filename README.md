@@ -20,5 +20,4 @@ issues.
 
 ## List
 
-1. [Swipable navigation with many (20+) content-rich views](blob/master/1.md)
-
+1. [Swipable navigation with many (20+) content-rich views](1-swipable-nav-many-views.md)
