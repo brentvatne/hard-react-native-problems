@@ -15,9 +15,11 @@ this isn't implemented in React Native.
 
 ### Solutions
 
-No solution for re-using views yet. 
+None yet.
 
-#### Destroy/create views on the fly
+### Unimplemented Ideas
+
+#### Destroy/create views on the fly (by @paramaggarwal)
 
 Current `ListView` implementation is memory heavy and cheap on processing. There is an alternative which is memory light, but processing heavy. `ListView` exposes a method `onChangeVisibleRows`. Using this data, it is possible to keep track of rows on screen. Also each row has an `onLayout` method which gives the final top, left, width, height of the cell.
 
@@ -25,7 +27,7 @@ To make both of these work together, store the data from `onLayout` on the compo
 
 This is not completely infinite as there is still an empty `View` for each row. You can use `removeClippedSubviews` property of `ListView` to not add native views to the heirarchy when they are offscreen.
 
-### Ideas
+#### Wrap UITableView/UICollectionView (by @paramaggarwal)
 
 To get reusability with `UITableView` and `UICollectionView`, React's reconciliation algorithm actually fits for taking a dirty view as input and getting a correctly configured view out.
 
