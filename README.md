@@ -1,5 +1,3 @@
-## Hard React Native Problems
-
 This repository is intended to house a list of examples of functionality
 from native apps that seem hard to implement (performantly or at all)
 with React Native, so that the community can attempt to find solutions
@@ -18,6 +16,6 @@ pull request with a link to it under the solutions section of the
 problem that you are trying to solve. Discuss possible solutions in the
 issues.
 
-## List
+## Hard React Native Problems
 
 1. [Swipable navigation with many (20+) content-rich views](1-swipable-nav-many-views.md)
