@@ -19,3 +19,4 @@ issues.
 ## Hard React Native Problems
 
 1. [Swipable navigation with many (20+) content-rich views](1-swipable-nav-many-views.md)
+2. [Draggable Sortable Lists](2-draggable-sortable-lists.md)
