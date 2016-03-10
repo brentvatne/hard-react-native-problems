@@ -8,7 +8,6 @@ any changes to core or new libraries that make the solutions easier.
 
 Fork this project, update the README to add an example.
 
-
 #### What you should do with this
 
 Try your hand at a solution! Create a repository for it, and submit a
@@ -18,5 +17,4 @@ issues.
 
 ## Hard React Native Problems
 
-1. [Swipable navigation with many (20+) content-rich views](1-swipable-nav-many-views.md)
-2. [Draggable Sortable Lists](2-draggable-sortable-lists.md)
+Currently all reside inside the [Issues](https://github.com/brentvatne/hard-react-native-problems/issues) for this repo.
